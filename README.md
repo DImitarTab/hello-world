@@ -1,2 +1,3 @@
 # hello-world
-This it a test repository
+This it a test repository for my new front-end project.
+
